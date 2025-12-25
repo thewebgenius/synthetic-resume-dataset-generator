@@ -1,0 +1,43 @@
+{
+  "template_id": "07",
+  "layout_type": "skills_first",
+  "description": "Skills section prominently at top",
+  "sections": {
+    "header": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.00,
+      "y_end": 0.13
+    },
+    "skills": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.13,
+      "y_end": 0.35
+    },
+    "projects": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.35,
+      "y_end": 0.58
+    },
+    "experience": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.58,
+      "y_end": 0.75
+    },
+    "education": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.75,
+      "y_end": 0.90
+    },
+    "hobbies": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.90,
+      "y_end": 1.00
+    }
+  }
+}

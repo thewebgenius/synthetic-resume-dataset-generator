@@ -1,0 +1,43 @@
+{
+  "template_id": "09",
+  "layout_type": "three_section",
+  "description": "Three vertical sections with mixed widths",
+  "sections": {
+    "header": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.00,
+      "y_end": 0.14
+    },
+    "skills": {
+      "x_start": 0.0,
+      "x_end": 0.30,
+      "y_start": 0.14,
+      "y_end": 0.60
+    },
+    "hobbies": {
+      "x_start": 0.0,
+      "x_end": 0.30,
+      "y_start": 0.60,
+      "y_end": 1.00
+    },
+    "education": {
+      "x_start": 0.30,
+      "x_end": 0.65,
+      "y_start": 0.14,
+      "y_end": 0.40
+    },
+    "projects": {
+      "x_start": 0.30,
+      "x_end": 1.0,
+      "y_start": 0.40,
+      "y_end": 0.75
+    },
+    "experience": {
+      "x_start": 0.30,
+      "x_end": 1.0,
+      "y_start": 0.75,
+      "y_end": 1.00
+    }
+  }
+}

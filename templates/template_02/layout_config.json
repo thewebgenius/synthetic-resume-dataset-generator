@@ -1,0 +1,43 @@
+{
+  "template_id": "02",
+  "layout_type": "two_column_left_sidebar",
+  "description": "Two column with left sidebar for education/skills",
+  "sections": {
+    "header": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.00,
+      "y_end": 0.15
+    },
+    "education": {
+      "x_start": 0.0,
+      "x_end": 0.35,
+      "y_start": 0.15,
+      "y_end": 0.40
+    },
+    "skills": {
+      "x_start": 0.0,
+      "x_end": 0.35,
+      "y_start": 0.40,
+      "y_end": 0.70
+    },
+    "hobbies": {
+      "x_start": 0.0,
+      "x_end": 0.35,
+      "y_start": 0.70,
+      "y_end": 1.00
+    },
+    "projects": {
+      "x_start": 0.35,
+      "x_end": 1.0,
+      "y_start": 0.15,
+      "y_end": 0.65
+    },
+    "experience": {
+      "x_start": 0.35,
+      "x_end": 1.0,
+      "y_start": 0.65,
+      "y_end": 1.00
+    }
+  }
+}

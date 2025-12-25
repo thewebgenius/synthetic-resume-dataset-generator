@@ -1,0 +1,61 @@
+body {
+    font-family: 'Calibri', sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 20px 0;
+}
+
+.resume {
+    width: 800px;
+    background: #ffffff;
+    margin: 30px auto;
+    padding: 0;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 35px 40px;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    margin: 10px 0 0 0;
+    opacity: 0.9;
+}
+
+.split-layout {
+    display: flex;
+    gap: 0;
+}
+
+.left-section {
+    flex: 1;
+    padding: 30px;
+    background: #f8f9fa;
+}
+
+.right-section {
+    flex: 0 0 45%;
+    padding: 30px;
+    background: #ffffff;
+}
+
+h2 {
+    color: #667eea;
+    margin-top: 20px;
+    font-size: 20px;
+    border-bottom: 2px solid #667eea;
+    padding-bottom: 5px;
+}
+
+ul {
+    padding-left: 20px;
+}

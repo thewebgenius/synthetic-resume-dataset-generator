@@ -1,0 +1,55 @@
+body {
+    font-family: 'Palatino Linotype', serif;
+    background: #fef5e7;
+}
+
+.resume {
+    width: 850px;
+    background: #ffffff;
+    margin: 30px auto;
+    padding: 30px;
+    box-shadow: 0 0 18px rgba(0,0,0,0.15);
+    border: 3px solid #f39c12;
+}
+
+header {
+    background: #f39c12;
+    color: white;
+    margin: -30px -30px 25px -30px;
+    padding: 25px 30px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 34px;
+}
+
+header p {
+    margin: 8px 0 0 0;
+}
+
+.three-column {
+    display: flex;
+    gap: 20px;
+}
+
+.left-sidebar {
+    flex: 0 0 28%;
+    background: #fef9e7;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.middle-content {
+    flex: 1;
+}
+
+h2 {
+    color: #d68910;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+ul {
+    padding-left: 20px;
+}

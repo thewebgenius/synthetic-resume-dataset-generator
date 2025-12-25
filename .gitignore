@@ -1,0 +1,31 @@
+# Output files - generated data
+output/
+yolo_dataset/
+annotations/
+data/resumes/*.json
+
+# Keep only sample resumes
+!data/resumes/README.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

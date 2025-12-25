@@ -1,0 +1,43 @@
+{
+  "template_id": "01",
+  "layout_type": "vertical",
+  "description": "Single column, vertical stacked layout",
+  "sections": {
+    "header": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.00,
+      "y_end": 0.12
+    },
+    "education": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.12,
+      "y_end": 0.25
+    },
+    "skills": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.25,
+      "y_end": 0.45
+    },
+    "projects": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.45,
+      "y_end": 0.65
+    },
+    "experience": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.65,
+      "y_end": 0.80
+    },
+    "hobbies": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.80,
+      "y_end": 1.00
+    }
+  }
+}

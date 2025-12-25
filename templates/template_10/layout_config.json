@@ -1,0 +1,43 @@
+{
+  "template_id": "10",
+  "layout_type": "modern_split",
+  "description": "Modern split layout with experience prominent",
+  "sections": {
+    "header": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.00,
+      "y_end": 0.16
+    },
+    "experience": {
+      "x_start": 0.0,
+      "x_end": 0.55,
+      "y_start": 0.16,
+      "y_end": 0.50
+    },
+    "projects": {
+      "x_start": 0.0,
+      "x_end": 0.55,
+      "y_start": 0.50,
+      "y_end": 0.85
+    },
+    "hobbies": {
+      "x_start": 0.0,
+      "x_end": 0.55,
+      "y_start": 0.85,
+      "y_end": 1.00
+    },
+    "education": {
+      "x_start": 0.55,
+      "x_end": 1.0,
+      "y_start": 0.16,
+      "y_end": 0.45
+    },
+    "skills": {
+      "x_start": 0.55,
+      "x_end": 1.0,
+      "y_start": 0.45,
+      "y_end": 1.00
+    }
+  }
+}

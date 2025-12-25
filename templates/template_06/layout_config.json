@@ -1,0 +1,43 @@
+{
+  "template_id": "06",
+  "layout_type": "dense",
+  "description": "Compact sections with tight spacing",
+  "sections": {
+    "header": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.00,
+      "y_end": 0.10
+    },
+    "education": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.10,
+      "y_end": 0.22
+    },
+    "skills": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.22,
+      "y_end": 0.42
+    },
+    "projects": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.42,
+      "y_end": 0.65
+    },
+    "experience": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.65,
+      "y_end": 0.85
+    },
+    "hobbies": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.85,
+      "y_end": 1.00
+    }
+  }
+}

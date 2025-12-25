@@ -1,0 +1,43 @@
+{
+  "template_id": "08",
+  "layout_type": "projects_first",
+  "description": "Projects highlighted at top",
+  "sections": {
+    "header": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.00,
+      "y_end": 0.12
+    },
+    "projects": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.12,
+      "y_end": 0.40
+    },
+    "experience": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.40,
+      "y_end": 0.60
+    },
+    "skills": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.60,
+      "y_end": 0.78
+    },
+    "education": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.78,
+      "y_end": 0.92
+    },
+    "hobbies": {
+      "x_start": 0.0,
+      "x_end": 1.0,
+      "y_start": 0.92,
+      "y_end": 1.00
+    }
+  }
+}
